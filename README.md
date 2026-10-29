@@ -48,21 +48,21 @@ If a student enters a previous quiz score, the system automatically adjusts the 
 1. Install Python 3.8 or above.
 2. Install Flask:
 
-```bash
-pip install flask
-```
+
+[pip install flask]
+
 
 3. Run the application:
 
-```bash
-python app.py
-```
+
+[python app.py]
+
 
 4. Open the following URL in a browser:
 
-```text
+
 http://127.0.0.1:5000/
-```
+
 
 ## Sample Inputs and Outputs
 
